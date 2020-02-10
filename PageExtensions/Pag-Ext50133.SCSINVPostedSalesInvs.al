@@ -13,7 +13,7 @@ pageextension 50133 "SCSINV Posted Sales Invs" extends "Posted Sales Invoices"
         }
         addlast(FactBoxes)
         {
-            part(AttachmentsFB; SCSJIFAttachments)
+            part(AttachmentsFB; Attachments)
             {
                 ApplicationArea = All;
             }

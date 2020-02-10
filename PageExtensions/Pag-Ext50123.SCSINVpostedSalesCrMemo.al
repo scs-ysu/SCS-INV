@@ -5,7 +5,7 @@ pageextension 50123 "SCSINV posted Sales Cr. Memo" extends "Posted Sales Credit 
         // Add changes to page layout here
         addlast(FactBoxes)
         {
-            part(AttachmentsFB; "SCSJIFAttachments")
+            part(AttachmentsFB; "Attachments")
             {
                 ApplicationArea = All;
             }

@@ -24,7 +24,7 @@ codeunit 50121 "SCSINVJob Create Invoice"
 
         gJobCreateInv: Codeunit "Job Create-Invoice";
 
-        gTempoSetup: Record "SCSJIFJIRA/Tempo-Setup";
+        gTempoSetup: Record "JIRA/Tempo-Setup";
         gJobTask: Record "Job Task";
 
     // Table 27 "Sales Line"

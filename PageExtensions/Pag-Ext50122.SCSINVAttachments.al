@@ -1,4 +1,4 @@
-pageextension 50122 "SCSINVAttachments" extends "SCSJIFAttachments"
+pageextension 50122 "SCSINVAttachments" extends "Attachments"
 {
     //to do please check with SCSJIF attachement page and remove what is unwanted
     var

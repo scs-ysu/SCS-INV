@@ -14,8 +14,8 @@
             "launchBrowser": true,
             "enableLongRunningSqlStatements": true,
             "enableSqlInformationDebugger": true,
-            "port": 8049,
-            "schemaUpdateMode": "Synchronize"
+            "port": 8049
+            
         }
     ]
 }

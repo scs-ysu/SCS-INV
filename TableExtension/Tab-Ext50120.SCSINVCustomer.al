@@ -52,6 +52,22 @@ tableextension 50120 "SCSINVCustomer" extends Customer
             DataClassification = CustomerContent;
 
         }
+
+        field(50220; "Template Workbook"; Text[250])
+        {
+            DataClassification = CustomerContent;
+
+        }
+        field(50230; "Target Folder"; Text[250])
+        {
+            DataClassification = CustomerContent;
+
+        }
+        field(50240; "Filename Template"; Text[250])
+        {
+            DataClassification = CustomerContent;
+
+        }
         field(50250; "E-Mail for PDF Invoice"; Text[80])
         {
             Caption = 'E-Mail for PDF Invoice';
